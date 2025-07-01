@@ -2,7 +2,7 @@
 
 This is a test of the llama3.2-vision model.
 
-![demo](/vision-streamlit-demo.gif)
+![demo](/vision-streamlit-demo-3.gif)
 
 ## Prereq
 I used ollama for this. So I did 
