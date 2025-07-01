@@ -1,5 +1,4 @@
 # filename: app.py
-
 import streamlit as st
 import ollama
 
@@ -32,10 +31,7 @@ if st.button("Analyze") and uploaded and question:
                             "You are a maritime vessel analysis assistant. Given an image of a ship, "
                             "your job is to extract and respond clearly with the following:\n\n"
                             "- Name of the vessel (if visible)\n"
-                            "- IMO number (International Maritime Organization number, usually 7 digits)\n"
-                            "- IMSI (International Mobile Subscriber Identity, if relevant/visible)\n"
                             "- Name of the company that owns or operates the vessel (based on visible markings)\n\n"
-                            "If any of the above are not clearly visible or determinable, say 'Not visible' for that field."
                         ),
                     },
                     {"role": "user", "content": question, "images": ["temp_image.png"]},
