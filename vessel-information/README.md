@@ -1,7 +1,7 @@
 # Vessel Information Search
 Agentic LLM to get more information about vessels. 
 
-![demo](/vessel-mcp-demo.gif)
+![demo](vessel-mcp-demo.gif)
 
 
 ## MARINE CADASTRE
