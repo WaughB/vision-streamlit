@@ -1,0 +1,25 @@
+Code,Description
+0,Not Available
+30,Fishing Vessel
+31,Towing Vessel
+32,Towing - Oversized
+60,Passenger Ship
+61,Passenger - Hazardous category A
+62,Passenger - Hazardous category B
+63,Passenger - Hazardous category C
+64,Passenger - Hazardous category D
+70,Cargo Ship
+71,Cargo - Hazardous category A
+72,Cargo - Hazardous category B
+73,Cargo - Hazardous category C
+74,Cargo - Hazardous category D
+80,Tanker
+81,Tanker - Hazardous category A
+82,Tanker - Hazardous category B
+83,Tanker - Hazardous category C
+84,Tanker - Hazardous category D
+90,Other
+91,Other - Hazardous category A
+92,Other - Hazardous category B
+93,Other - Hazardous category C
+94,Other - Hazardous category D
